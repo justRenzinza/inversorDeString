@@ -1,0 +1,14 @@
+C:\Users\gabriel\Desktop\inverter strings\inverterString\bin\Debug\net7.0\inverterString.exe
+C:\Users\gabriel\Desktop\inverter strings\inverterString\bin\Debug\net7.0\inverterString.deps.json
+C:\Users\gabriel\Desktop\inverter strings\inverterString\bin\Debug\net7.0\inverterString.runtimeconfig.json
+C:\Users\gabriel\Desktop\inverter strings\inverterString\bin\Debug\net7.0\inverterString.dll
+C:\Users\gabriel\Desktop\inverter strings\inverterString\bin\Debug\net7.0\inverterString.pdb
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.dll
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\refint\inverterString.dll
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.pdb
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\inverterString.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\inverter strings\inverterString\obj\Debug\net7.0\ref\inverterString.dll
